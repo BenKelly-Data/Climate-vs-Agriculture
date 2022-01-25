@@ -6,7 +6,7 @@ Collaborators: Sheldon Chen, Lo Humeniuk, Benjamin Kelly, Will Power-Jenkins
 This program allows a user to visualize the historic environmental data spanning from 1940 up to 2019, 
 and to observe whether there is a relationship between yearly crop yields and
 precipitation and mean annual climate, gathered by province. Within the graphic user interface, a user has the option to select a province, type of crop, and temperature of
-precipitation data to view a histogram showing the relationships within this data.
+precipitation data to view a histogram showing the relationships within this data. Once the GUI is closed the linear regression results appear in the terminal.
 
 # Sources
 Dataset A: 
